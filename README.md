@@ -1,2 +1,1 @@
-# Chrome-Extension with Javascript
-saving URLs with chrome extension 
+# saving URLs with chrome extension using Javascript, HTML and CSS 
