@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "version": "2.0",
+    "name": "Saves Tracker",
+    "action": {
+        "default_popup": "index.html",
+        "default_icon": "iconic.png"
+    },
+    "permissions": [
+        "tabs"
+    ]
+}
